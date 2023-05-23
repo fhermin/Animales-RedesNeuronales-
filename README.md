@@ -93,12 +93,12 @@ Para probar el modelo de forma visual se realizo una api basada en un proyecto d
 Las siguientes fotos se  tomarón desde un dispositivo movil:
 
 ![Animal](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.30%20PM.jpeg)
-![Animal](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.29%20PM.jpeg)
-![Animal](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.28%20PM.jpeg)
-![Animal](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.28%20PM%20(2).jpeg)
-![Animal](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.28%20PM%20(1).jpeg)
+![Animal2](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.29%20PM.jpeg)
+![Animal3](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.28%20PM.jpeg)
+![Animal4](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.28%20PM%20(2).jpeg)
+![Animal5](Fotos/WhatsApp%20Image%202023-05-22%20at%2010.14.28%20PM%20(1).jpeg)
 
-Esta app esta desarrolada en Html con Tensorflow.js para cargar el modelo,para poder usar la Api se recomienda .
+Esta app esta desarrollada en Html con Tensorflow.js para cargar el modelo,para poder usar la Api se recomienda .
 - Descarga Python en tu computadora
 - Abre una línea de comandos o terminal
 - Navega hasta la carpeta donde descargaste el repositorio
